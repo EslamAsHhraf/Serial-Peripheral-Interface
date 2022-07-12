@@ -1,7 +1,7 @@
 # <img align="center" width=70px height=70px src="https://media3.giphy.com/media/gaozKmGlTJbBnwT5av/200w.webp?cid=ecf05e477dfxjo8wdjl2xcyi6hjhfbtkemj784yotetprezi&rid=200w.webp&ct=s">Serial Peripheral Interface
 
 <p align="center">
-   <img width=100%  src="https://rapidapi.com/blog/wp-content/uploads/2018/06/web-animation-gif.gif" alt="logo">
+   <img width=600px src="https://rapidapi.com/blog/wp-content/uploads/2018/06/web-animation-gif.gif" alt="logo">
 </p>
 
 <p align="center"> 
