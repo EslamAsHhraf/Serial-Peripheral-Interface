@@ -1,4 +1,4 @@
-# <img align="center" width=70px height=70px src="https://media3.giphy.com/media/gaozKmGlTJbBnwT5av/200w.webp?cid=ecf05e477dfxjo8wdjl2xcyi6hjhfbtkemj784yotetprezi&rid=200w.webp&ct=s">Serial Peripheral Interface
+#  Serial Peripheral Interface
 
 <p align="center">
    <img width=600px src="https://rapidapi.com/blog/wp-content/uploads/2018/06/web-animation-gif.gif" alt="logo">
@@ -8,7 +8,7 @@
     <br> 
 </p>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 overview</a>
 - <a href ="#Started"> 💻 Get Started</a>
@@ -23,8 +23,9 @@
 - <a href ="#Structure"> 📁  File Structure</a>
 - <a href ="#Contributors"> ✨ Contributors</a>
 <hr style="background-color: #4b4c60"></hr>
+<a id = "about"></a>
 
-## <img align="center"  width =60px  height =70px src="https://media2.giphy.com/media/Yn4nioYWSZMqiPNVuD/giphy.gif?cid=ecf05e47m5h78yoqhdkg8pq54o5qsxhdoltjxyfe08d4vxvg&rid=giphy.gif&ct=s"> overview <a id = "about"></a>
+## 📙 overview 
 
 Design and implementation the following components of the SPI modules using verilog such that they match the requirements of the development testbench and match the SPI specifications:
 <ul> 
@@ -38,8 +39,9 @@ Slave
 </ul> 
 <img src="https://user-images.githubusercontent.com/71986226/154839234-d42ca7ce-f947-4208-801e-d5ce07bca857.png">
 <hr style="background-color: #4b4c60">
-
-## <img align= center width=50px height=50px src="https://media0.giphy.com/media/QvpqIQAAl66EfoTJj8/200w.webp?cid=ecf05e47kn4j0qln8fk4xybgqwle0nju8stj9hjw4z6fk8c2&rid=200w.webp&ct=s"> Get Started <a id = "Started"></a>
+ <a id = "Started"></a>
+ 
+## 🚀 Get Started
 
 <ol>
 <li>Clone the repository
@@ -61,7 +63,7 @@ Read <a href="https://github.com/EslamAsHhraf/Serial-Peripheral-Interface/blob/m
 </ol>
 <hr style="background-color: #4b4c60">
 
-## <img align= center width=50px height=50px src="https://media3.giphy.com/media/ViCO3ua8uHhhA2ZQ4J/giphy.gif?cid=ecf05e47yeo8vftfrfkkie7ewyvfwkwon92tsapvyhevi9iv&rid=giphy.gif&ct=s"> How project Work <a id ="Work"></a>
+## 📜  How project Work <a id ="Work"></a>
 <ul>
 <li>After each CLK the Master chose The Slave Again with CS with Enable One Slave and Disable the Other.</li>
 <li>At Test Bench of the Master is to Send and Receive data from many Slaves at Same Time This Is Mainly Testing the ability Of the Exchange Between the Master and Many Slaves.</li>
@@ -98,8 +100,9 @@ sheet and ensure that the timing specifications for the part are met
 <img src="https://user-images.githubusercontent.com/71986226/154839419-0b63b22b-f31b-40de-ac87-19974e17b9fb.png">
 
 <hr style="background-color: #4b4c60"></hr>
+<a id ="Screenshots"></a>
 
-## <img align= center width=50px height=50px src="https://media0.giphy.com/media/gp1fRRB4AcbS0DbhZc/giphy.gif?cid=ecf05e474k7ih4mxqxl87j893egl3sdfcp2ygrvp95nrzc5j&rid=giphy.gif&ct=s"> Demo Screenshots <a id ="Screenshots"></a>
+## 📸 Demo Screenshots 
 
 ### Simulation Results of Development testbench <a id="sd"></a>
 <img align= center src="https://user-images.githubusercontent.com/71986226/154839792-7427bde2-fa88-4fdf-a2f7-4c7339fad3d0.png">
@@ -125,8 +128,9 @@ sheet and ensure that the timing specifications for the part are met
 <img align= center src="https://user-images.githubusercontent.com/71986226/154840042-5571e770-576b-47e7-b4f8-b6926422da41.png">
 
 <hr style="background-color: #4b4c60"></hr>
+<a id="Structure"> </a>
 
-## <img align= center width=60px height=60px src="https://media1.giphy.com/media/igsIZv3VwIIlRIpq5G/giphy.gif?cid=ecf05e47faatmwdhcst7c2d4eontr459hjd35zf3an324elo&rid=giphy.gif&ct=s"> File Structure <a id="Structure"> </a>
+## 🗃️ File Structure 
 
 ```
 Serial-Peripheral-Interface
@@ -146,8 +150,9 @@ Serial-Peripheral-Interface
 
 
 <hr style="background-color: #4b4c60"></hr>
+<a id ="Contributors"></a>
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
+## 👑 Contributors 
 
 <table align="center" >
   <tr>
